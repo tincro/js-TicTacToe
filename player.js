@@ -1,4 +1,4 @@
-const Player = (space, name) => {
+const Player = (name) => {
     const marker = name;
     // choose a space on the board
     const move = (space) => {
